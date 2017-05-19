@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: one
+  watch: one
+
+two:
+  price: two
+  watch: two

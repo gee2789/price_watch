@@ -34,6 +34,7 @@ gem 'bcrypt', '~> 3.1.7'
 # gem 'capistrano-rails', group: :development
 gem "paperclip", "~> 5.0.0"
 
+gem 'money'
 gem "figaro"
 gem 'rack-cors', :require => 'rack/cors'
 gem 'jwt'
